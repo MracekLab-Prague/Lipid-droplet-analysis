@@ -104,4 +104,4 @@ If you use this macro in a publication, please cite the FIJI platform:
 
 ## License
 
-This macro is released under the [MIT License](LICENSE). You are free to use, modify, and distribute it with attribution.
+This macro is released under the MIT license. You are free to use, modify, and distribute it with attribution.
